@@ -1,7 +1,7 @@
-Parabot-317-API-Minified
+Parabot 317-API-Minified LocoPK
 ========================
 
-A tiny 317 API for Parabot v2
+A tiny 317 API for Parabot v2 for LocoPK
 
 ### About
 
